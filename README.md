@@ -1,3 +1,4 @@
-## Little squirrel theme by ThemeWagon team.
----
-Thank you for using Little squirrel See the "public" folder, you will find everything ready to use there. If you want to use the gulp based workflow, cd to this directory in your terminal and run this command: npm i && gulp
+Proyecto no terminado aún
+
+link de trello
+https://trello.com/invite/b/A7SQw2rJ/a8218fbe1da6fa4e3f13c5b34b497f8e/hito-1-desafio-latam
